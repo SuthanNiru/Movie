@@ -27,7 +27,7 @@ const Navbar = () => {
           to="/"
           sx={{ display: 'flex', alignItems: 'center', textDecoration: 'none', color: 'inherit', mb: { xs: 1, md: 0 } }}
         >
-          <img src={navlogo} alt="nav_logo" style={{ height: 40, marginRight: 8 }} />
+          <img src={navlogo} alt="navlogo" style={{ height: 40, marginRight: 8 }} />
           <Typography variant="h6" sx={{ fontWeight: 'bold' }}>
             MOVIE EXPLORER
           </Typography>
